@@ -1,1 +1,1 @@
-# Convolutional-Disentangled-Variational-Autoencoder
+# Convolutional Disentangled Variational Autoencoder (β-VAE)
